@@ -1,1 +1,20 @@
-# tdd-refactoring-clean-code-8
+## TDD, Refactoring, Clean Code 8기
+
+### 자동차 경주 - 단위테스트
+#### Step1 학습 테스트 실습
+- [nextstep 코드 리뷰](https://github.com/next-step/java-racingcar/pull/695)  
+
+#### Step2 문자열 계산기 
+- [nextstep 코드 리뷰](https://github.com/next-step/java-racingcar/pull/738)  
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-racingcar/pull/1)  
+
+#### Step3 자동차 경주 
+- [nextstep 코드 리뷰](https://github.com/next-step/java-racingcar/pull/774)  
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-racingcar/pull/3)  
+
+#### Step4 자동차 경주(우승자) 
+- [nextstep 코드 리뷰](https://github.com/next-step/java-racingcar/pull/809)  
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-racingcar/pull/5)  
+
+#### Step5 자동차 경주(리팩토링) 
+- [nextstep 코드 리뷰]()
