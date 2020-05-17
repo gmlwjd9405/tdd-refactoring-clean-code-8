@@ -21,12 +21,12 @@
 
 ### :heavy_check_mark: 자동차 경주 - 단위테스트 [학습 내용](https://github.com/gmlwjd9405/tdd-refactoring-clean-code-8/tree/master/study/java-racing)
 
+
 ## 로또 - TDD
 #### Step1 문자열 덧셈 계산기
 - [nextstep 코드 리뷰]()
 
 ### :heavy_check_mark: 로또 - TDD [학습 내용](https://github.com/gmlwjd9405/tdd-refactoring-clean-code-8/tree/master/study/java-lotto)
-- [요약](https://github.com/gmlwjd9405/tdd-refactoring-clean-code-8/tree/master/study/java-lotto)
 
 
 ---
