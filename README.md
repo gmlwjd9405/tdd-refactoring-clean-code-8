@@ -1,6 +1,6 @@
 # TDD, Refactoring, Clean Code 8기
 
-## 자동차 경주 - 단위테스트
+## 자동차 경주 - 단위테스트 :pushpin:[학습내용](https://github.com/gmlwjd9405/tdd-refactoring-clean-code-8/tree/master/study/java-racing)
 #### Step1 학습 테스트 실습
 - [nextstep 코드 리뷰](https://github.com/next-step/java-racingcar/pull/695)  
 
@@ -19,10 +19,8 @@
 #### Step5 자동차 경주(리팩토링) 
 - [nextstep 코드 리뷰](https://github.com/next-step/java-racingcar/pull/831)
 
-### :heavy_check_mark: 자동차 경주 - 단위테스트 [학습 내용](https://github.com/gmlwjd9405/tdd-refactoring-clean-code-8/tree/master/study/java-racing)
 
-
-## 로또 - TDD
+## 로또 - TDD :pushpin:[학습내용](https://github.com/gmlwjd9405/tdd-refactoring-clean-code-8/tree/master/study/java-lotto)
 #### Step1 문자열 덧셈 계산기
 - [nextstep 코드 리뷰](https://github.com/next-step/java-lotto/pull/491)
 - [zuniors 코드 리뷰](https://github.com/zuniors/java-lotto/pull/1)
@@ -39,6 +37,38 @@
 - [nextstep 코드 리뷰](https://github.com/next-step/java-lotto/pull/)
 - [zuniors 코드 리뷰](https://github.com/zuniors/java-lotto/pull/5)
 
-### :heavy_check_mark: 로또 - TDD [학습 내용](https://github.com/gmlwjd9405/tdd-refactoring-clean-code-8/tree/master/study/java-lotto)
+
+## 사다리타기 - FP, OOP :pushpin:[학습내용](https://github.com/gmlwjd9405/tdd-refactoring-clean-code-8/tree/master/study/java-ladder)
+#### Step1 자바8 스트림, 람다, Optional
+- [nextstep 코드 리뷰](https://github.com/next-step/java-ladder/pull/)
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-ladder/pull/)
+
+#### Step2 사다리 (생성)
+- [nextstep 코드 리뷰](https://github.com/next-step/java-ladder/pull/)
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-ladder/pull/)
+
+#### Step3 사다리 (게임 실행)
+- [nextstep 코드 리뷰](https://github.com/next-step/java-ladder/pull/)
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-ladder/pull/)
+
+#### Step4 사다리 (리팩토링)
+- [nextstep 코드 리뷰](https://github.com/next-step/java-ladder/pull/)
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-ladder/pull/)
 
 
+## 볼링 점수판 - OOP :pushpin:[학습내용](https://github.com/gmlwjd9405/tdd-refactoring-clean-code-8/tree/master/study/java-bowling)
+#### Step1 질문 삭제하기 기능 리팩토링
+- [nextstep 코드 리뷰](https://github.com/next-step/java-bowling/pull/)
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-bowling/pull/)
+
+#### Step2 볼링 점수판 (그리기)
+- [nextstep 코드 리뷰](https://github.com/next-step/java-bowling/pull/)
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-bowling/pull/)
+
+#### Step3 볼링 점수판 (리팩토링)
+- [nextstep 코드 리뷰](https://github.com/next-step/java-bowling/pull/)
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-bowling/pull/)
+
+#### Step4 볼링 점수판 (n명)
+- [nextstep 코드 리뷰](https://github.com/next-step/java-bowling/pull/)
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-bowling/pull/)
