@@ -16,7 +16,16 @@
   - [내용 정리](./ladder-feedback.md)
 
 ### :heavy_check_mark: 리뷰 및 학습 내용 
-- 
+- reduce()
+  ```java
+  return numbers.stream().reduce(0, Integer::sum);
+  return numbers.stream().reduce(0, (x, y) -> x + y);
+  ```
+
+- Optional
+  - https://www.baeldung.com/java-optional
+
+
 
 ---
 
