@@ -44,9 +44,9 @@
 - UI, DB 등과 의존관계를 가지지 않는 핵심 도메인 영역을 집중 설계
   - 즉, **테스트 하기 쉬운 부분을 분리해 집중적으로 테스트한다.**
 - 1단계: 도메인 로직을 테스트하는 것에 집중
-  - ![](/images/domain-logic-test.png)
+  - ![](./images/domain-logic-test.png)
 - 2단계: 대략적인 도메인 객체 설계
-  - ![](/images/domain-object-design.png)
+  - ![](./images/domain-object-design.png)
   - Random 값을 테스트 하기 어렵다.
     - => 외부로 빼야겠다.
   - 초반 설계 할 때, 테스트 가능한 부분과 어려운 부분을 분리해서 테스트 가능한 부분을 집중적으로 단위 테스트한다.
@@ -81,7 +81,7 @@
 ### Step3. 테스트하기 어려운 부분을 찾아 가능한 구조로 개선
 - Object Graph에서 다른 Object와 의존관계를 가지는 않는 마지막 노드(Node)를 먼저 찾는다.
   - Object Graph: 객체들이 서로 의존관계를 맺는 관계
-  - ![](/images/object-find-last-node.png)
+  - ![](./images/object-find-last-node.png)
 - 예를 들어 RacingMain -> RacingGame -> Car와 같이 의존 관계를 가진다면 Car가 테스트
 가능한지 확인한다.
 
@@ -104,7 +104,7 @@ public class Car {
 
 ### Step4. 해결책
 - 테스트하기 어려운 코드의 의존관계를 Object Graph의 상위로 이동시킨다.
-  - ![](/images/object-graph-solution.png)
+  - ![](./images/object-graph-solution.png)
   - 의존성 주입(DI) 기반으로 프로그래밍을 해야지만 테스트가 쉬운 코드가 된다.
   - Spring 없이도 DI를 써야 한다. (좋은 설계)
 

@@ -16,7 +16,7 @@
   - [내용 정리 1](./lotto-feedback-1.md)
   - [내용 정리 2](./lotto-feedback-2.md)
 - 점진적인 리팩토링 
-  - [내용 정리](/java-lotto/progressive-refactoring.md)
+  - [내용 정리](./progressive-refactoring.md)
 
 ### 리뷰 및 학습 내용 
 - private static final Pattern STRING_TOKEN_PATTERN = Pattern.compile("//(.)\\n(.*)");
