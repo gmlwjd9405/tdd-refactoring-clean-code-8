@@ -19,4 +19,8 @@
   - [내용 정리](/java-lotto/progressive-refactoring.md)
 
 ### 리뷰 및 학습 내용 
-- 
+- private static final Pattern STRING_TOKEN_PATTERN = Pattern.compile("//(.)\\n(.*)");
+  - 만드는데 메모리나 시간이 오래 걸리는 객체 즉 "비싼 객체"를 반복적으로 만들어야 한다면 캐시해두고 재사용할 수 있는지 고려하는 것이 좋다.
+  - https://github.com/keesun/study/blob/master/effective-java/item6.md
+- find, matches 차이
+- unmodifiableList
