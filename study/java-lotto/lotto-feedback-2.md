@@ -1,4 +1,4 @@
-# java-lotto 피드백 1
+# java-lotto 피드백 2
 
 
 ---
