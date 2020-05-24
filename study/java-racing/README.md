@@ -53,3 +53,9 @@
 
 - Q. TDD 를 진행하면서 (test -> feat -> refactor) 중 리팩토링 과정에서 private method 가 새로운 클래스의 public method로 빠질 때가 있습니다. 그럼 이 경우엔 public method로 빼고 테스트 코드를 작성하게 되는 것인데, (feat -> test)(?) 순서라고 생각됩니다. TDD 를 진행하면서 이런 순서로 작업하게 되는 경우가 자연스러운 일인가요??
   - e.g. StringUtil.isEmpty()
+
+
+
+---
+
+### :house: [Go Home](https://github.com/gmlwjd9405/tdd-refactoring-clean-code-8)

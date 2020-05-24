@@ -563,3 +563,8 @@ public interface MovableStrategy {
   - A라는 클래스에서 B라는 클래스로 분리하게 되면 A에서 B의 해당 메서드를 호출해야되기 때문에 public으로 변경해야 된다.
   - public 으로 변경된 메서드는 테스트할 수 있다.
 - [slipp 참고](https://www.slipp.net/questions/253)
+
+
+---
+
+### :car: [RacingCar Home](https://github.com/gmlwjd9405/tdd-refactoring-clean-code-8/tree/master/study/java-racing)

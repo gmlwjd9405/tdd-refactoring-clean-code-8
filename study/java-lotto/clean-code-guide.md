@@ -70,3 +70,8 @@ Sensor s = sensors.get(sensorId);
 - 학습 테스트는 공짜 이상이다.
   - 투자하는 노력보다 얻어지는 성과가 더 크다.
   - 패키지의 새 버전이 나온다면 학습 테스트를 돌려 차이가 있는지 확인한다.
+
+
+---
+
+### :game_die: [Lotto Home](https://github.com/gmlwjd9405/tdd-refactoring-clean-code-8/tree/master/study/java-lotto)

@@ -42,6 +42,3 @@
 ### :heavy_check_mark: 로또 - TDD [학습 내용](https://github.com/gmlwjd9405/tdd-refactoring-clean-code-8/tree/master/study/java-lotto)
 
 
----
-
-### :house: [Go Home](https://github.com/gmlwjd9405/tdd-refactoring-clean-code-8)
