@@ -88,8 +88,6 @@
     - expenseAverage
   - e.g. 나쁜 예
     - totalRevenue
-    - expenseTotal
-    - revenueAverage
     - averageExpense
 
 #### 루틴(함수, 메소드) 네이밍
