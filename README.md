@@ -34,26 +34,26 @@
 - [zuniors 코드 리뷰](https://github.com/zuniors/java-lotto/pull/4)
 
 #### Step4 로또 (수동)
-- [nextstep 코드 리뷰](https://github.com/next-step/java-lotto/pull/)
+- [nextstep 코드 리뷰](https://github.com/next-step/java-lotto/pull/542)
 - [zuniors 코드 리뷰](https://github.com/zuniors/java-lotto/pull/5)
 
 
 ## 사다리타기 - FP, OOP :pushpin:[학습내용](https://github.com/gmlwjd9405/tdd-refactoring-clean-code-8/tree/master/study/java-ladder)
 #### Step1 자바8 스트림, 람다, Optional
-- [nextstep 코드 리뷰](https://github.com/next-step/java-ladder/pull/)
-- [zuniors 코드 리뷰](https://github.com/zuniors/java-ladder/pull/)
+- [nextstep 코드 리뷰](https://github.com/next-step/java-ladder/pull/386)
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-ladder/pull/1)
 
 #### Step2 사다리 (생성)
-- [nextstep 코드 리뷰](https://github.com/next-step/java-ladder/pull/)
-- [zuniors 코드 리뷰](https://github.com/zuniors/java-ladder/pull/)
+- [nextstep 코드 리뷰](https://github.com/next-step/java-ladder/pull/403)
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-ladder/pull/2)
 
 #### Step3 사다리 (게임 실행)
-- [nextstep 코드 리뷰](https://github.com/next-step/java-ladder/pull/)
-- [zuniors 코드 리뷰](https://github.com/zuniors/java-ladder/pull/)
+- [nextstep 코드 리뷰](https://github.com/next-step/java-ladder/pull/425)
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-ladder/pull/3)
 
 #### Step4 사다리 (리팩토링)
 - [nextstep 코드 리뷰](https://github.com/next-step/java-ladder/pull/)
-- [zuniors 코드 리뷰](https://github.com/zuniors/java-ladder/pull/)
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-ladder/pull/4)
 
 
 ## 볼링 점수판 - OOP :pushpin:[학습내용](https://github.com/gmlwjd9405/tdd-refactoring-clean-code-8/tree/master/study/java-bowling)
