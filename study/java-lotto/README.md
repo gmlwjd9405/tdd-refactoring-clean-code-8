@@ -13,8 +13,7 @@
 - TDD 로 자동차 경주 게임 구현 
   - [내용 정리](./tdd-racingcar.md)
 - 로또 피드백 
-  - [내용 정리 1](./lotto-feedback-1.md)
-  - [내용 정리 2](./lotto-feedback-2.md)
+  - [내용 정리](./lotto-feedback.md)
 - 점진적인 리팩토링 
   - [내용 정리](./progressive-refactoring.md)
 
