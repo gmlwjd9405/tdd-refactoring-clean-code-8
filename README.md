@@ -52,7 +52,7 @@
 - [zuniors 코드 리뷰](https://github.com/zuniors/java-ladder/pull/3)
 
 #### Step4 사다리 (리팩토링)
-- [nextstep 코드 리뷰](https://github.com/next-step/java-ladder/pull/)
+- [nextstep 코드 리뷰](https://github.com/next-step/java-ladder/pull/438)
 - [zuniors 코드 리뷰](https://github.com/zuniors/java-ladder/pull/4)
 
 
