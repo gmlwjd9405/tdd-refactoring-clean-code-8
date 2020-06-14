@@ -58,17 +58,17 @@
 
 ## 볼링 점수판 - OOP :pushpin:[학습내용](https://github.com/gmlwjd9405/tdd-refactoring-clean-code-8/tree/master/study/java-bowling)
 #### Step1 질문 삭제하기 기능 리팩토링
-- [nextstep 코드 리뷰](https://github.com/next-step/java-bowling/pull/)
-- [zuniors 코드 리뷰](https://github.com/zuniors/java-bowling/pull/)
+- [nextstep 코드 리뷰](https://github.com/next-step/java-bowling/pull/160)
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-bowling/pull/1)
 
 #### Step2 볼링 점수판 (그리기)
 - [nextstep 코드 리뷰](https://github.com/next-step/java-bowling/pull/)
-- [zuniors 코드 리뷰](https://github.com/zuniors/java-bowling/pull/)
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-bowling/pull/2)
 
 #### Step3 볼링 점수판 (리팩토링)
 - [nextstep 코드 리뷰](https://github.com/next-step/java-bowling/pull/)
-- [zuniors 코드 리뷰](https://github.com/zuniors/java-bowling/pull/)
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-bowling/pull/3)
 
 #### Step4 볼링 점수판 (n명)
 - [nextstep 코드 리뷰](https://github.com/next-step/java-bowling/pull/)
-- [zuniors 코드 리뷰](https://github.com/zuniors/java-bowling/pull/)
+- [zuniors 코드 리뷰](https://github.com/zuniors/java-bowling/pull/4)
