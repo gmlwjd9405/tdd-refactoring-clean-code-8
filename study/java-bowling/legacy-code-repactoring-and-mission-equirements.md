@@ -106,7 +106,7 @@ public class QnAService {
     - `when()`, `thenReturn()`
   - 반환값이 없는 메서드의 경우, 검증하는 것
     - `verify()`
-- DB에 접근하지 않아도 해당 메서드를 호출했을 때 가짜 반환 객체를 지정핧 수 있다.
+- DB에 접근하지 않아도 해당 메서드를 호출했을 때 가짜 반환 객체를 지정할 수 있다.
   ```java
   @Test
   public void delete_성공_질문자_답변자_같음() throws Exception {
